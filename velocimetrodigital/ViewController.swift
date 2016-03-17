@@ -1,7 +1,5 @@
-//
-//  ViewController.swift
-//  velocimetrodigital
-//
+
+
 
                                                 	
 import UIKit
